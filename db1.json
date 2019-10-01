@@ -1,0 +1,546 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "photoUrl": "https://house-animals.ru/sites/default/files/media/user-1/trehcvetnaya-koshka-256.jpg",
+      "followed": false,
+      "fullName": "Tomas",
+      "status": "I like fish",
+      "location": {
+        "city": "Petropavl",
+        "country": "Kazakhstan"
+      }
+    },
+    {
+      "id": 2,
+      "photoUrl": "https://ranbus.fra1.cdn.digitaloceanspaces.com/images/avatars/2019/01/154745223793wK7X5xCi.jpg",
+      "followed": true,
+      "fullName": "Silvester",
+      "status": "I live in Moscow!",
+      "location": {
+        "city": "Moscow",
+        "country": "Russia"
+      }
+    },
+    {
+      "id": 3,
+      "photoUrl": "https://house-animals.ru/sites/default/files/media/user-1/grey-cat-256.jpg",
+      "followed": false,
+      "fullName": "Keks",
+      "status": "Hi, I very happy cat!",
+      "location": {
+        "city": "Ekaterinburg",
+        "country": "Russia"
+      }
+    },
+    {
+      "id": 4,
+      "photoUrl": "https://house-animals.ru/sites/default/files/media/user-1/redhead-cat-256.jpg",
+      "followed": false,
+      "fullName": "Semen",
+      "status": "Hello everyone!",
+      "location": {
+        "city": "Perm",
+        "country": "Russia"
+      }
+    },
+    {
+      "id": 5,
+      "photoUrl": "https://www.stylist.co.uk/images/app/uploads/2017/10/24184627/d82c29b23a574d0de11df28351edde1e-256x256.jpg?w=256&h=256&fit=max&auto=format%2Ccompress",
+      "followed": true,
+      "fullName": "Salvador",
+      "status": "Hello, lets go to cinema!",
+      "location": {
+        "city": "Ekaterinburg",
+        "country": "Russia"
+      }
+    }
+  ],
+  "login": {
+    "data": {
+      "login": "Cat number One",
+      "password": "123456",
+      "rememberMe": true
+    }
+  },
+  "follow": {
+    "resultCode": 1,
+    "usersId": "1"
+  },
+  "notes": [
+    {
+      "noteText": "Выучить React",
+      "id": "2019-09-26T04:35:32.699Z"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "1",
+      "name": "single economy",
+      "slug": "single-economy",
+      "type": "single",
+      "price": 100,
+      "size": 200,
+      "capacity": 1,
+      "pets": false,
+      "breakfast": false,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "https://cdn11.bigcommerce.com/s-hrrla/product_images/uploaded_images/beautiful-hotel-rooms-guidepal-city-guides.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "single basic",
+      "slug": "single-basic",
+      "type": "single",
+      "price": 150,
+      "size": 250,
+      "capacity": 1,
+      "pets": false,
+      "breakfast": false,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "https://www.gerstner-hotels.at/grafik/bg-photo/hal/zimmer-standard-einzel-1.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "single standard",
+      "slug": "single-standard",
+      "type": "single",
+      "price": 250,
+      "size": 300,
+      "capacity": 1,
+      "pets": true,
+      "breakfast": false,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/_wyndham-dolce/media/dsshotel-rooms-suite-bedroom-2a-5cf849d5a08d5.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "single deluxe",
+      "slug": "single-deluxe",
+      "type": "single",
+      "price": 300,
+      "size": 400,
+      "capacity": 1,
+      "pets": true,
+      "breakfast": true,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "https://www.theeurope.com/files/images/new/europe-1920-1080-one-bedroom-suite-2090904277.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "double economy",
+      "slug": "double-economy",
+      "type": "double",
+      "price": 200,
+      "size": 300,
+      "capacity": 2,
+      "pets": false,
+      "breakfast": false,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "http://fryazinom.ru/wp-content/uploads/2013/04/beautiful-hotel-room-design.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "double basic",
+      "slug": "double-basic",
+      "type": "double",
+      "price": 250,
+      "size": 350,
+      "capacity": 2,
+      "pets": false,
+      "breakfast": false,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "http://www.flauminc.com/server15-cdn/2015/11/08/beautiful-hotel-bedroom-beautiful-romantic-bedrooms-667d946cdc3bff38.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "double standard",
+      "slug": "double-standard",
+      "type": "double",
+      "price": 300,
+      "size": 400,
+      "capacity": 2,
+      "pets": true,
+      "breakfast": false,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "https://surfsandlodge.com/wp/wp-content/uploads/2015/03/QN_DEFAULT_THUMB.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "double deluxe",
+      "slug": "double-deluxe",
+      "type": "double",
+      "price": 400,
+      "size": 500,
+      "capacity": 2,
+      "pets": true,
+      "breakfast": true,
+      "featured": true,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "https://previews.123rf.com/images/kitleong/kitleong1902/kitleong190202625/117481996-slovenia-nov-3-interior-view-of-a-beautiful-hotel-room-in-lake-bled-area-on-nov-3-2018-at-slovenia.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "family economy",
+      "slug": "family-economy",
+      "type": "family",
+      "price": 300,
+      "size": 500,
+      "capacity": 3,
+      "pets": false,
+      "breakfast": false,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "https://s3-ap-southeast-1.amazonaws.com/blog-ph/wp-content/uploads/2016/08/12091701/beautiful-hotel-room-dailymail.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "family basic",
+      "slug": "family-basic",
+      "type": "family",
+      "price": 350,
+      "size": 550,
+      "capacity": 4,
+      "pets": false,
+      "breakfast": false,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "http://casatararetreat.com/wp-content/uploads/2018/10/casatara-low-107.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "family standard",
+      "slug": "family-standard",
+      "type": "family",
+      "price": 400,
+      "size": 600,
+      "capacity": 5,
+      "pets": true,
+      "breakfast": false,
+      "featured": false,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "http://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "family deluxe",
+      "slug": "family-deluxe",
+      "type": "family",
+      "price": 500,
+      "size": 700,
+      "capacity": 6,
+      "pets": true,
+      "breakfast": true,
+      "featured": true,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2015/03/accommodations.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "presidential",
+      "slug": "presidential-room",
+      "type": "presidential",
+      "price": 600,
+      "size": 1000,
+      "capacity": 10,
+      "pets": true,
+      "breakfast": true,
+      "featured": true,
+      "description": "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "extras": [
+        "Plush pillows and breathable bed linens",
+        "Soft, oversized bath towels",
+        "Full-sized, pH-balanced toiletries",
+        "Complimentary refreshments",
+        "Adequate safety/security",
+        "Internet",
+        "Comfortable beds"
+      ],
+      "images": [
+        {
+          "url": "https://cdn11.bigcommerce.com/s-hrrla/product_images/uploaded_images/beautiful-hotel-rooms-guidepal-city-guides.jpg"
+        },
+        {
+          "url": "https://www.bordeaux-montaigne.fr/img/i/1/2/4/14.jpg"
+        },
+        {
+          "url": "https://media.architecturaldigest.com/photos/5a832370498fd76f3be3d4fc/master/w_1600%2Cc_limit/San%252520Clemente%252520suite-bathroom_SCPK.jpg"
+        },
+        {
+          "url": "https://media.cntraveler.com/photos/53da5a616dec627b149e4f59/master/pass/hotel-bel-air-presidential-suite-living-room.jpg"
+        }
+      ]
+    }
+  ]
+}
